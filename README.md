@@ -1,2 +1,2 @@
 # learning-spring-webflux
-Projeto que visa o aprendizado de spring web flux e controllers funcionais
+Project used to learn spring web flux and functional controllers
